@@ -23,7 +23,7 @@ We learn 10 sprints during 4 month program.
 - Dashboard
 
 
-### ALL PROJECT 
+# ALL PROJECTS   
 
 ## Spreadsheets
 - [x] [Dynamic Query](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20Dynamic%20Query.pdf))  -  Queries that return results dynamically  
