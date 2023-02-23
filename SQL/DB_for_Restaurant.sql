@@ -1,3 +1,5 @@
+-- https://replit.com/@BossPLK/SQLhomeworkbatch6#main.sql
+
 -- Restaurant Owners
 -- 5 Tables
 -- 1x Fact, 4x Dimension
