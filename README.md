@@ -24,7 +24,7 @@ We learn 10 sprints during 4 month program.
 ### HOME
 
 ## Spreadsheets
-- [x] [Dynamic Query](Spreadsheets/Project Dynamic Query.pdf) -  Queries that return results dynamically  
+- [x] [Dynamic Query](Spreadsheets/Project Dynamic Query.pdf)  -  Queries that return results dynamically  
 - [x] [Converting Date](Spreadsheets/Project Convert TH to EN Date.pdf) - Converting TH date to EN date
 - [x] [ID Card Parser](Spreadsheets/Project ID Card Parser.pdf) - Using regular expression to extract and parse ID card information
 - [x] [RCT & AB Test Sample](Spreadsheets/Project RCT & AB Test Sample .pdf)
