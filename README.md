@@ -48,10 +48,16 @@ We learn 10 sprints during 4 month program.
 ## Data Transformation
 - [x] [NYC Flights 2013 Analysis](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/4Q21HGzMCft1LxNGxJsrBK/) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
 
-## Data Visualization
-- [x] [Diamonds] - Creating charts to visualize the data queried using the `ggplot2` package in `R`
-
 ## Statistics
 - [x] [Titanic Survival Prediction] - Using the `titanic` dataset to predict the survival of Titanic passengers by logistic regression in `R`
+
+## Python 
+- [x] [Course Pandas Foundation - Final Project] 
+
+
+## Dashboard
+- [x] [] - Creating charts to visualize the data queried using the `ggplot2` package in `R`
+
+
 
 
