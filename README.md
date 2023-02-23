@@ -55,5 +55,3 @@ We learn 10 sprints during 4 month program.
 - [x] [Titanic Survival Prediction] - Using the `titanic` dataset to predict the survival of Titanic passengers by logistic regression in `R`
 
 
-Linkedin: 
-https://www.linkedin.com/in/palakorn-kerdsap-5a315a221/
