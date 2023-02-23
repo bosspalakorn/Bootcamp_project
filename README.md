@@ -24,10 +24,10 @@ We learn 10 sprints during 4 month program.
 ### HOME
 
 ## Spreadsheets
-- [x] [Dynamic Query](Spreadsheets/ProjectDynamicQuery.pdf)  -  Queries that return results dynamically  
-- [x] [Converting Date](Spreadsheets/ProjectConvertTHtoENDate.pdf) - Converting TH date to EN date
-- [x] [ID Card Parser](Spreadsheets/ProjectIDCardParser.pdf) - Using regular expression to extract and parse ID card information
-- [x] [RCT & AB Test Sample](Spreadsheets/ProjectRCT&ABTestSample.pdf)
+- [x] [Dynamic Query](Spreadsheets/Project Dynamic Query.pdf)  -  Queries that return results dynamically  
+- [x] [Converting Date](Spreadsheets/Project Convert TH to EN Date.pdf) - Converting TH date to EN date
+- [x] [ID Card Parser](Spreadsheets/Project ID Card Parser.pdf) - Using regular expression to extract and parse ID card information
+- [x] [RCT & AB Test Sample](Spreadsheets/Project RCT & AB Test Sample .pdf)
 
 ## SQL Database
 - [x] [Restaurant Database](SQL/DB_for_Restaurant.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
