@@ -30,12 +30,14 @@ We learn 10 sprints during 4 month program.
 - [x] [RCT & AB Test Sample](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20RCT%20%26%20AB%20Test%20Sample%20.pdf))
 
 ## SQL Database
-- [x] [Restaurant Database](SQL/DB_for_Restaurant.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
+- [x] [Restaurant Database](SQL/DB_for_Restaurant.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data ) 
+      [Play in replit](https://replit.com/@BossPLK/SQLhomeworkbatch6?v=1)
 
 ## R Programming
-- [x] [ChatBot - Pizza Shop](R/Chat_bot-Order_pizza.r) - A rule-based chatbot to order pizza with some dialogue
+- [x] [ChatBot - Pizza Shop](R/Chat_bot-Order_pizza.r) - A rule-based chatbot to order pizza with some dialogue   
+      [Play in replit](https://replit.com/@BossPLK/Batch06ChatbotPizza?v=1)   
 - [x] [Rock Paper Scissors](R/Rock-Paper-Scissors.r) - An interactive mini game with bot using `R`
-
+      [Play in replit](https://replit.com/@BossPLK/Batch06Chatbot-Pao-Ying-Chub?v=1)
 ## Data Transformation
 - [x] [NYC Flights 2013 Analysis](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/4Q21HGzMCft1LxNGxJsrBK/) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
 
