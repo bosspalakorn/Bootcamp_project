@@ -24,10 +24,10 @@ We learn 10 sprints during 4 month program.
 ### HOME
 
 ## Spreadsheets
-- [x] [Dynamic Query](Spreadsheets/Project Dynamic Query.pdf)  -  Queries that return results dynamically  
-- [x] [Converting Date](Spreadsheets/Project Convert TH to EN Date.pdf) - Converting TH date to EN date
-- [x] [ID Card Parser](Spreadsheets/Project ID Card Parser.pdf) - Using regular expression to extract and parse ID card information
-- [x] [RCT & AB Test Sample](Spreadsheets/Project RCT & AB Test Sample .pdf)
+- [x] [Dynamic Query]([Spreadsheets/Project Dynamic Query.pdf](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20Dynamic%20Query.pdf))  -  Queries that return results dynamically  
+- [x] [Converting Date]([Spreadsheets/Project Convert TH to EN Date.pdf](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20Convert%20TH%20to%20EN%20Date.pdf)) - Converting TH date to EN date
+- [x] [ID Card Parser]([Spreadsheets/Project ID Card Parser.pdf](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20ID%20Card%20Parser.pdf)) - Using regular expression to extract and parse ID card information
+- [x] [RCT & AB Test Sample]([Spreadsheets/Project RCT & AB Test Sample .pdf](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20RCT%20%26%20AB%20Test%20Sample%20.pdf))
 
 ## SQL Database
 - [x] [Restaurant Database](SQL/DB_for_Restaurant.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
