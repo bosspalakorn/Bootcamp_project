@@ -53,7 +53,8 @@ We learn 10 sprints during 4 month program.
 
 ## Python 
 - [x] [Course Pandas Foundation - Final Project](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/cvBvsobriVqIrHxikupnCb/) -Homework in pandas foundation course  
-
+- [x] [Rock Paper Scissors](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/EIgyCWPzjBSbhl7glM8zgG/) - An interactive mini game with bot using `Python`
+- [x] [ATM class](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/xVEMuXDWSAgWc2NkLUdiOk/) - Write a class ATM with at least 5 methods.
 
 ## Dashboard
 - [x] [] - Creating charts to visualize the data queried using the `ggplot2` package in `R`
