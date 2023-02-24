@@ -52,7 +52,7 @@ We learn 10 sprints during 4 month program.
 - [x] [Titanic Survival Prediction] - Using the `titanic` dataset to predict the survival of Titanic passengers by logistic regression in `R`
 
 ## Python 
-- [x] [Course Pandas Foundation - Final Project] 
+- [x] [Course Pandas Foundation - Final Project] (https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/cvBvsobriVqIrHxikupnCb/) -  
 
 
 ## Dashboard
