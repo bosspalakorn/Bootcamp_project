@@ -44,7 +44,7 @@ We learn 10 sprints during 4 month program.
 
 - Play in replit : https://replit.com/@BossPLK/Batch06Chatbot-Pao-Ying-Chub?v=1
 
-- [x] [Webscraping project](web_scraping_project.pdf) - Mini project 
+- [x] [Webscraping project](web_scraping_project.pdf) - `2 Mini projects` data from website IMDb and Specphone 
       
 ## Data Transformation
 - [x] [NYC Flights 2013 Analysis](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/4Q21HGzMCft1LxNGxJsrBK/) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
