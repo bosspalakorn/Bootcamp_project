@@ -57,7 +57,7 @@ We learn 10 sprints during 4 month program.
 - [x] [ATM class](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/xVEMuXDWSAgWc2NkLUdiOk/) - Write a class ATM with at least 5 methods.
 
 ## Dashboard
-- [x] [] - Creating charts to visualize the data queried using the `ggplot2` package in `R`
+- [x] [Superstore_Sales_Batch_06](Dashboard/Superstore_Sales_Batch_06.pdf) - Create Superstore Sales dashboards with Looker Studio (Former Data Studio) in Bootcamp. 
 
 
 
