@@ -29,7 +29,6 @@ We learn 10 sprints during 4 month program.
 - [x] [Dynamic Query](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20Dynamic%20Query.pdf)  -  Queries that return results dynamically  
 - [x] [Converting Date](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20Convert%20TH%20to%20EN%20Date.pdf) - Converting TH date to EN date
 - [x] [ID Card Parser](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20ID%20Card%20Parser.pdf) - Using regular expression to extract and parse ID card information
-- [x] [RCT & AB Test Sample](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20RCT%20%26%20AB%20Test%20Sample%20.pdf)
 
 ## SQL Database
 - [x] [Restaurant Database](SQL/DB_for_Restaurant.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data ) 
@@ -49,6 +48,7 @@ We learn 10 sprints during 4 month program.
 - [x] [NYC Flights 2013 Analysis](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/4Q21HGzMCft1LxNGxJsrBK/) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
 
 ## Statistics
+- [x] [RCT & AB Test Sample](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20RCT%20%26%20AB%20Test%20Sample%20.pdf)
 - [x] [Titanic Survival Prediction] - Using the `titanic` dataset to predict the survival of Titanic passengers by logistic regression in `R`
 
 ## Python 
