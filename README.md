@@ -52,7 +52,7 @@ We learn 10 sprints during 4 month program.
 - [x] [Titanic Survival Prediction] - Using the `titanic` dataset to predict the survival of Titanic passengers by logistic regression in `R`
 
 ## Python 
-- [x] [Course Pandas Foundation - Final Project] (Python/CoursePandasFoundation_FinalProject.ipynb) -Homework in pandas foundation course  
+- [x] [Course Pandas Foundation - Final Project](Python/CoursePandasFoundation_FinalProject.ipynb) -Homework in pandas foundation course  
 - [x] [Rock Paper Scissors](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/EIgyCWPzjBSbhl7glM8zgG/) - An interactive mini game with bot using `Python`
 - [x] [ATM class](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/xVEMuXDWSAgWc2NkLUdiOk/) - Write a class ATM with at least 5 methods.
 
