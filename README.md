@@ -48,7 +48,7 @@ We learn 10 sprints during 4 month program.
 - [x] [NYC Flights 2013 Analysis](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/4Q21HGzMCft1LxNGxJsrBK/) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
 
 ## Statistics
-- [x] [RCT & AB Test Sample](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20RCT%20%26%20AB%20Test%20Sample%20.pdf)
+- [x] [RCT & AB Test Sample](https://github.com/bosspalakorn/bootcamp_project/blob/main/Spreadsheets/Project%20RCT%20%26%20AB%20Test%20Sample%20.pdf) -Analyze data with simple AB tests in Google Sheets.
 - [x] [Titanic Survival Prediction] - Using the `titanic` dataset to predict the survival of Titanic passengers by logistic regression in `R`
 
 ## Python 
