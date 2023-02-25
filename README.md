@@ -43,6 +43,8 @@ We learn 10 sprints during 4 month program.
 - [x] [Rock Paper Scissors](R/Rock-Paper-Scissors.r) - An interactive mini game with bot using `R`
 
 - Play in replit : https://replit.com/@BossPLK/Batch06Chatbot-Pao-Ying-Chub?v=1
+
+- [x] [Webscraping project](web_scraping_project.pdf) - Mini project 
       
 ## Data Transformation
 - [x] [NYC Flights 2013 Analysis](https://datalore.jetbrains.com/notebook/30R19BcMF2Y3FhTuOoGFr7/4Q21HGzMCft1LxNGxJsrBK/) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
