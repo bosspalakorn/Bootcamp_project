@@ -62,7 +62,8 @@ We learn 10 sprints during 4 month program.
 - [x] [Superstore_Sales_Batch_06](Dashboard/Superstore_Sales_Batch_06.pdf) - Create Superstore Sales dashboards with Looker Studio (Former Data Studio) in Bootcamp. 
 - [x] [HW-Netflix-lookerstudio-Batch06](https://lookerstudio.google.com/reporting/d60f6c56-f652-498d-81b2-1dcab50bfa4f) - Create dashboards with Looker Studio (Former Data Studio).
 - [x] [HW-The 2014 Inc. 5000-Batch06](https://lookerstudio.google.com/reporting/8f21a3d8-761a-4a18-84b6-fa56e12b8f8a) - Create dashboards with Looker Studio (Former Data Studio).
-
+- [x] [MY fIRST Tableau - Superstore_Sales_Batch_06 ](https://public.tableau.com/app/profile/bossplk/viz/MYfIRSTTableau/MyFirstDashboard) - Create my first dashboards super store  with Tableau .
+- [x] [HW-The 2014 Inc. 5000 Tableau -Batch06](https://public.tableau.com/app/profile/bossplk/viz/The2014Inc_Report/The2014Inc_5000) -  Create my first dashboards super store with Tableau .
 
 
 
